@@ -7,4 +7,3 @@ Abstract Data Types implemented in Algoritmos y Programacion II course (Buchwald
 - Hash
 - Binary Search Tree
 - Heap
-- Graph
